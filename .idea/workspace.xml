@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68e1b8e4-c1bb-42be-9161-57c92166524d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ytQHyfGadfzi2zLQnzWRvLGpz1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sangi\Documents\GIT_CODE_CHECKIN\My_List_Partition\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ListPartition">
+    <configuration name="ListPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpmc.ListPartition" />
+      <module name="My_List_Partition" />
+      <option name="PROGRAM_PARAMETERS" value="1 4 6 7 8 9 10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpmc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListPartitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_List_Partition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpmc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jpmc" />
+      <option name="MAIN_CLASS_NAME" value="jpmc.ListPartitionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ListPartition" />
+      <item itemvalue="JUnit.ListPartitionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListPartition" />
+        <item itemvalue="JUnit.ListPartitionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e1b8e4-c1bb-42be-9161-57c92166524d" name="Default Changelist" comment="" />
+      <created>1633068320797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633068320797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633068587593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1633068587593" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1633068620997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1633068620997" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1633068620997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1633068620997" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1633068620997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1633068620997" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1633068620997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1633068620997" />
+    <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1633068510008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1633068510008" />
+  </component>
+</project>
